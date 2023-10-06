@@ -1,25 +1,24 @@
 body{
   background-color:#ffffff;
-  margin-left: 30px;
+  margin-left: 50px;
   margin-right: 10px;
   }
 h1{
   text-align: center;
   padding-left: 50px;
-  padding: 30px;
   background-color:#ffffff;
   border-radius: 15px;
   margin: 15px;
 }
 div{
   background-color:#7ebbbd;
-  padding: 20px;
+  padding-left: 50px;
   border-radius: 15px;
   margin: 15px;
 }
 h3{
   background-color:#7ebbbd;
-  padding: 30px;
+ padding-left: 50px;
   border-radius: 15px;
   margin: 15px;
 }
