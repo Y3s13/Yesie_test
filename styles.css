@@ -4,12 +4,12 @@ body{
   margin-right: 10px;
   }
 h1{
-  <style= width:50%>
   text-align: center;
   padding-left: 100px;
   background-color:#ffffff;
   border-radius: 50px;
   margin: 15px;
+  style= width:50%;
 }
 div{
   background-color:#7ebbbd;
