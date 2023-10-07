@@ -9,7 +9,7 @@ h1{
   background-color:#ffffff;
   border-radius: 50px;
   margin: 15px;
-  style= width:50%;
+  width:50%; 
 }
 div{
   background-color:#7ebbbd;
@@ -18,12 +18,12 @@ div{
   margin: 15px;
 }
 h3{
-  style= width:50%;
   background-color:#7ebbbd;
   padding-left: 50px;
   padding-right: 50px;
   border-radius: 15px;
   margin: 15px;
+  width:50%
 }
 p{
   text-align: center;
