@@ -19,9 +19,8 @@ div{
 }
 h3{
   background-color:#7ebbbd;
+  align: left;
   padding-left: 50px;
-  padding-right: 50px;
-  border-radius: 15px;
   margin: 15px;
   width: 50%;
 }
