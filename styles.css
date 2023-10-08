@@ -23,7 +23,8 @@ h3{
   padding-right: 50px;
   border-radius: 15px;
   margin: 15px;
-  align: right;
+  width: 50%;
+  height: 70%;
 }
 p{
   text-align: center;
