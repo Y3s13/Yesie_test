@@ -12,7 +12,7 @@ h1{
 }
 h4{
   background-color:#7ebbbd;
-  float: right;
+  float: left;
   border-radius: 15px;
   padding-left: 70px;
   padding-right: 70px;
@@ -20,7 +20,7 @@ h4{
   width: 30%;
 }
 div{
-  background: blue;
+  background: red;
   padding-left: 100px;
   border-radius: 25px;
   margin: 15px;
