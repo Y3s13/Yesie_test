@@ -19,7 +19,7 @@ h4{
   width: 30%;
 }
 div{
-  background-color:#7ebbbd;
+  background:red;
   padding-left: 100px;
   border-radius: 15px;
   margin: 15px;
@@ -30,20 +30,3 @@ p{
 }
 img{
   text-align: center;
-}
-div {
-  float: right;
-  padding: 15px; 
-}
-
-.div1 {
-  background: blue;
-}
-
-.div2 {
-  background: yellow;
-}
-
-.div3 {
-  background: green;
-}
