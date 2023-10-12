@@ -10,6 +10,22 @@ h1{
   border-radius: 50px;
   margin: 15px;
 }
+div{
+  float: right;
+  padding: 15px; 
+}
+
+.div1 {
+  background: blue;
+}
+
+.div2 {
+  background: yellow;
+}
+
+.div3 {
+  background: green;
+}
 h4{
   background-color:#7ebbbd;
   float: right;
@@ -30,3 +46,4 @@ p{
 }
 img{
   text-align: center;
+
