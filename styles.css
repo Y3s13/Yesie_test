@@ -10,6 +10,13 @@ h1{
   border-radius: 50px;
   margin: 15px;
 }
+div{
+  background: blue;
+  background: red;
+  padding-left: 100px;
+  border-radius: 25px;
+  margin: 15px;
+}
 h4{
   background-color:#7ebbbd;
   border-radius: 15px;
