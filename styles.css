@@ -10,7 +10,7 @@ h1{
   border-radius: 50px;
   margin: 15px;
 }
-h2{
+h4{
   background-color:#7ebbbd;
   float: left;
   border-radius: 15px;
@@ -23,7 +23,7 @@ div{
   padding-left: 100px;
   border-radius: 15px;
   margin: 15px;
-  width:50%;
+  width:60%;
 }
 p{
   text-align: center;
