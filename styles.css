@@ -11,22 +11,12 @@ h1{
   margin: 15px;
 }
 h4{
-  float: left
-}
-h4{
   background-color:#7ebbbd;
   border-radius: 15px;
   padding-left: 70px;
   padding-right: 70px;
   margin: 15px;
   width: 30%;
-}
-div{
-  background: red;
-  padding-left: 100px;
-  border-radius: 25px;
-  margin: 15px;
-  width:60%;
 }
 p{
   text-align: center;
