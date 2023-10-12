@@ -10,7 +10,7 @@ h1{
   border-radius: 50px;
   margin: 15px;
 }
-div{
+h2{
   background-color:#7ebbbd;
   border-radius: 15px;
   padding-left: 70px;
@@ -18,7 +18,7 @@ div{
   margin: 15px;
   width: 30%;
 } 
-div{
+h3{
   background-color:#7ebbbd;
   border-radius: 15px;
   padding-left: 70px;
