@@ -24,6 +24,7 @@ h2{
   padding-left: 70px;
   margin: 15px;
   width: 60%;
+  float: left;
 }
 h3{
   background-color:#7ebbbd;
@@ -31,6 +32,7 @@ h3{
   padding-left: 70px;
   margin: 15px;
   width: 60%;
+  float: right; 
 }
 h4{
   background-color:#7ebbbd;
