@@ -6,7 +6,7 @@ body{
 h1{
   text-align: center;
   padding-left: 100px;
-  background-color:#ffffff;
+  background-color:#7ebbbd;
   border-radius: 50px;
   margin: 15px;
 }
