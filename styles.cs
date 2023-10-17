@@ -19,12 +19,13 @@ div{
   float: right;
 }
 h3{
-  background-color:#7ebbbd;
+    background-color:#7ebbbd;
   float: left;
   border-radius: 15px;
+  padding-right: 40px;
   padding-left: 10px;
   margin: 15px;
-  width: 20%;
+  width: 10%;
 }
 img{
  align: center;
