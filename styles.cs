@@ -7,7 +7,7 @@ h1{
  background-color:#7ebbbd;
   border-radius: 15px;
   margin: 15px;
-  width: 60%;
+  width: 50%;
   float: right;
 }
 div{
@@ -24,7 +24,7 @@ h3{
   border-radius: 15px;
   padding-left: 10px;
   margin: 15px;
-  width: 10%;
+  width: 20%;
 }
 img{
  align: center;
