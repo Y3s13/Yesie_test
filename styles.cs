@@ -18,9 +18,6 @@ div{
   width:70%;
   float: right;
 }
-p{
-  text-align: center;
-}
 h3{
   background-color:#7ebbbd;
   float: left;
@@ -32,5 +29,8 @@ h3{
 }
 img{
  align: center;
+}
+p{
+  text-align: center;
 }
 
