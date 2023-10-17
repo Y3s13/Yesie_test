@@ -12,9 +12,11 @@ h1{
 }
 div{
   background-color:#7ebbbd;
-  padding: 30px;
+  padding-left: 100px;
   border-radius: 15px;
   margin: 15px;
+  width:70%;
+  float: right;
 }
 p{
   text-align: center;
