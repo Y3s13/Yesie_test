@@ -9,6 +9,7 @@ h1{
   background-color:#7ebbbd;
   border-radius: 50px;
   margin: 15px;
+  width: 60%;
 }
 div{
   background-color:#7ebbbd;
@@ -23,7 +24,7 @@ h2{
   background-color:#7ebbbd;
   border-radius: 15px;
   margin: 15px;
-  width: 70%;
+  width: 60%;
   float: left;
 }
 h3{
@@ -31,7 +32,6 @@ h3{
   float: left;
   border-radius: 15px;
   padding-left: 40px;
-  padding-right: 20px;
   margin: 15px;
   width: 20%;
 }
