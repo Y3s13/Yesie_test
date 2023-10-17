@@ -28,9 +28,6 @@ h3{
   margin: 15px;
   width: 10%;
 }
-p{
- align: center;
-}
 img{
  align: center;
 }
