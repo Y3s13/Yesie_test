@@ -19,13 +19,6 @@ div{
 p{
   text-align: center;
 }
-h2{
-  background-color:#7ebbbd;
-  border-radius: 15px;
-  margin: 15px;
-  width: 60%;
-  float: left;
-}
 h3{
   background-color:#7ebbbd;
   float: left;
