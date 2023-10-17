@@ -31,9 +31,10 @@ h3{
   background-color:#7ebbbd;
   float: left;
   border-radius: 15px;
-  padding-left: 40px;
+  padding-right: 40px;
+  padding-left: 10px;
   margin: 15px;
-  width: 20%;
+  width: 10%;
 }
 p{
  align: center;
