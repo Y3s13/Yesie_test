@@ -4,11 +4,11 @@ body{
   margin-right: 10px;
   }
 h1{
- background-color:#7ebbbd;
+  background-color:#7ebbbd;
   border-radius: 15px;
   margin: 15px;
-  width: 50%;
-  float: right;
+  width: 60%;
+  float: left;
 }
 div{
   background-color:#7ebbbd;
