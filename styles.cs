@@ -8,7 +8,7 @@ h1{
   border-radius: 15px;
   margin: 15px;
   width: 60%;
-  float: left;
+  float: right;
 }
 div{
   background-color:#7ebbbd;
