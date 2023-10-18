@@ -12,7 +12,7 @@ h1{
 }
 div{
   background-color:#7ebbbd;
-  padding-left: 100px;
+  padding-left: 50px;
   border-radius: 15px;
   margin: 15px;
   width:70%;
