@@ -15,7 +15,7 @@ div{
   padding-left: 50px;
   border-radius: 15px;
   margin: 15px;
-  width:30%;
+  width:50%;
   float: right;
 }
 h3{
