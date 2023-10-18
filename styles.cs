@@ -12,14 +12,14 @@ h1{
 }
 div{
   background-color:#7ebbbd;
-  padding-left: 50px;
+  padding-left: 100px;
   border-radius: 15px;
   margin: 15px;
-  width:50%;
+  width:70%;
   float: right;
 }
 h3{
-    background-color:#7ebbbd;
+  background-color:#7ebbbd;
   float: left;
   border-radius: 15px;
   padding-right: 40px;
