@@ -4,11 +4,11 @@ body{
   margin-right: 10px;
   }
 h1{
-  background-color:#7ebbbd;
-  border-radius: 15px;
+  text-align: center;
+  padding-left: 100px;
+  background-color:#ffffff;
+  border-radius: 50px;
   margin: 15px;
-  width: 60%;
-  float: right;
 }
 div{
   background-color:#7ebbbd;
@@ -17,6 +17,13 @@ div{
   margin: 15px;
   width:70%;
   float: right;
+}
+h2{
+  background-color:#7ebbbd;
+  border-radius: 15px;
+  margin: 15px;
+  width: 60%;
+  float: left;
 }
 h3{
   background-color:#7ebbbd;
