@@ -25,6 +25,20 @@ h2{
   width: 60%;
   float: left;
 }
+h3{
+  background-color:#7ebbbd;
+  border-radius: 15px;
+  margin: 15px;
+  width: 60%;
+  float: left;
+}
+h5{
+  background-color:#7ebbbd;
+  border-radius: 15px;
+  margin: 15px;
+  width: 60%;
+  float: left;
+}
 h4{
   background-color:#7ebbbd;
   float: left;
