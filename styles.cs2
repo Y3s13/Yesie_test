@@ -38,8 +38,8 @@ p{
  style: font-size:70%;
 }
 img{
-  width: 250px;
-  height: 250px;
+  width: 400px;
+  height: 400px;
   animation-name: example;
   animation-duration: 4s;
 }
