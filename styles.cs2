@@ -39,9 +39,7 @@ img{
   height: 400px;
   animation-name: example;
   animation-duration: 4s;
-}
-
-@keyframes example {
+  @keyframes example
   from {src: images.jpeg;}
   to {src: sewing-2.jpg;}
 }
