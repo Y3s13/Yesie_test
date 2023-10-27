@@ -46,6 +46,6 @@ img{
 
 @keyframes example {
   from {src: images.jpeg;}
-  to {src: images.jpeng;}
+  to {src: sewing-2.jpg;}
 }
 
