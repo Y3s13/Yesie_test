@@ -35,14 +35,6 @@ h4{
   width: 10%;
 }
 img{
-  width: 400px;
-  height: 400px;
-  animation-name: example;
-  animation-duration: 4s;
-}
-
   @keyframes example {
-  from {src: images.jpeg;}
-  to {src: sewing-2.jpg;}
-}
-
+  from {images.jpeg;}
+  to {sewing-2.jpg;}
