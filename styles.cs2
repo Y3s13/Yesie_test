@@ -38,6 +38,14 @@ p{
  style: font-size:70%;
 }
 img{
- align: center;
+  width: 100px;
+  height: 100px;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+@keyframes example {
+  from {src: images.jpeg;}
+  to {src: images.jpeng;}
 }
 
