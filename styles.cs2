@@ -35,7 +35,6 @@ h4{
   width: 10%;
 }
 img{
-  @keyframes example {
   animation-duration: 4s;
   from {images.jpeg;}
   to {sewing-2.jpg;}
