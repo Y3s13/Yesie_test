@@ -34,3 +34,18 @@ h4{
   margin: 15px;
   width: 10%;
 }
+
+#photo1{
+  animation: fade-in 5s;
+}
+
+.fade-in-image{
+  animation: fade-in 5s;
+}
+
+@keyframes fade-in
+{
+    0% {
+      margin-left: 100%;
+      opacity: 0;
+    }
