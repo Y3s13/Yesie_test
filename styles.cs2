@@ -34,10 +34,3 @@ h4{
   margin: 15px;
   width: 10%;
 }
-#photo1{
-  animation-duration: 4s;
-}
-@keyframes{
-  from {background: images.jpeg;}
-  to {background: sewing-2.jpg;}
-}
