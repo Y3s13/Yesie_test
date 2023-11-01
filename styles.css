@@ -37,6 +37,22 @@ h4{
 p{
  align: center;
 }
-img{
- align: center;
+#photo1{
+  animation: fade-in 5s;
 }
+
+.fade-in-image{
+  animation: fade-in 5s;
+}
+
+@keyframes fade-in
+{
+    0% {
+      margin-left: 100%;
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+      margin-left: 15px;
+    }
+
