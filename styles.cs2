@@ -38,11 +38,6 @@ h4{
 #photo1{
   animation: fade-in 5s;
 }
-
-.fade-in-image{
-  animation: fade-in 5s;
-}
-
 @keyframes fade-in
 {
     0% {
