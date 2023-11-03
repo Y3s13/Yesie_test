@@ -44,6 +44,7 @@ h4{
       margin-left: 100%;
       opacity: 0;
     }
+
 #photo.2{
   animation: fade-in 5s;
 }
