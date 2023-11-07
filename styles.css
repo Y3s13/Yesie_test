@@ -35,12 +35,16 @@ h4{
   width: 10%;
 }
 .btn{
-  border: 10px solid #07497a;
+  border: 5px solid #07497a;
   padding: .5em 1em;
   font-size: 2 rem;
-  text-color:#07497a;
   background-color:#ebe1ca;
+  color:#07497a;
+  transition: transform .5s
+  border-radius: 2.5px;
 }
 .btn:hover{
   transform: translateY(10px);
+  background-color:#07497a;
+  color:#ebe1ca;
 }
