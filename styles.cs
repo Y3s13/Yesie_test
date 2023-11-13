@@ -40,4 +40,16 @@ img{
 p{
   text-align: center;
 }
-
+.btn{
+  padding: .5em 1em;
+  font-size: 2 rem;
+  background-color:#ffffff;
+  color:#000000;
+  transition: transform .5s;
+  border-radius: 2.5px;
+}
+.btn:hover{
+  transform: translateY(10px);
+  background-color:#000000;
+  color:#ffffff;
+}
