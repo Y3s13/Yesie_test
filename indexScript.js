@@ -1,3 +1,3 @@
-alert("hello! Welcome to my page!");
+alert("This page has a virus");
 
-console.log("I hope you enjoy learning JavaScript!");
+console.log("would you like to continue?");
