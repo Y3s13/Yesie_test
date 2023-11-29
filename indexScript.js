@@ -1,7 +1,6 @@
 alert("Welcome to my page");
 
 console.log("would you like to continue?");
-
 function changeText(){
-  document.getElementByid("demo").innerHTML="Josh hutcherson"
+  document.getElementById("demo").innerHTML = "This is a bucket.";
 }
