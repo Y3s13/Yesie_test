@@ -9,7 +9,7 @@ const person = {
 };
 
 function changeText(){
-  document.getElementById(nameOfElement).innerHTML = "This is a bucket.";
+  document.getElementById(nameOfElement).innerHTML = "Sewing is fun!";
   console.log(nameOfElement);
 }
 
