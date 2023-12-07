@@ -1,4 +1,4 @@
-alert("This page has a virus");
+window.alert("John doe");
 
  console.log("would you like to continue?");
 
