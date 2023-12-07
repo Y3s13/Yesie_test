@@ -1,15 +1,3 @@
-alert("hello");
-console.log("Bye");
+alert("hello! Welcome to my page!");
 
-let nameOfElement;
-nameOfElement = "demo";
-const person = { 
-  firstName: "john" 
-  lastName: "doe" 
-};
-
-function changeText(){
-  document.getElementById(nameOfElement).innerHTML = "Sewing is fun!";
-  console.log(nameOfElement);
-}
-
+ console.log("I hope you enjoy learning JavaScript!");
