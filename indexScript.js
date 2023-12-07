@@ -4,3 +4,4 @@ window.alert("John doe");
 
 function changeText(){
    document.getElementByid("demo").innerHTML = "Hello";
+}
