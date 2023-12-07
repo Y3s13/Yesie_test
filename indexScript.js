@@ -10,4 +10,4 @@ function changeText(){
   console.log(nameOfElement);
 }
 
-window.alert("hello")
+alert("hello")
