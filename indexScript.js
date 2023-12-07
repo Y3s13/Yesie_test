@@ -1,8 +1,11 @@
+alert("hello");
+console.log("Bye");
+
 let nameOfElement;
 nameOfElement = "demo";
 const person = { 
-  firstname: "john" 
-  lastname: "doe" 
+  firstName: "john" 
+  lastName: "doe" 
 };
 
 function changeText(){
@@ -10,5 +13,3 @@ function changeText(){
   console.log(nameOfElement);
 }
 
-alert("hello");
-console.log("Bye");
