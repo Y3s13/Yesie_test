@@ -1,6 +1,6 @@
 window.alert
-let Firstname = "John doe"; 
-window.alert("Jane doe");
+let firstName = "John"
+let lastName = "Doe";
 
  console.log("would you like to continue?");
 
