@@ -1,7 +1,4 @@
-window.alert("John doe");
-window.alert("Jane doe");
-
- console.log("would you like to continue?");
+window.alert("this page is going to show what i sew");
 
 function changeText(){
    document.getElementByid("demo").innerHTML = "Hello";
