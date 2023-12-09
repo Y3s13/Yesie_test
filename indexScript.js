@@ -2,8 +2,8 @@ let nameOfElement;
 nameOfElement = "demo";
 let person = {
   name: "John",
-  age: 35,
-  favoriteColor: "blue"
+  age: 100,
+  favoriteColor: "cyan"
 };
 
 function changeText(){
