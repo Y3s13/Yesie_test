@@ -1,8 +1,19 @@
-window.alert("John doe");
-window.alert("Jane doe");
-
- console.log("would you like to continue?");
+let nameOfElement;
+nameOfElement = "demo";
+let person = {
+  name: "John",
+  age: 35,
+  favoriteColor: "blue"
+};
 
 function changeText(){
-   document.getElementByid("demo").innerHTML = "Hello";
+  document.getElementById(nameOfElement).innerHTML = "This is a bucket.";
+  console.log(nameOfElement);
 }
+
+function printToConsole(input) {
+    //window.alert(input);
+    window.alert(person.age);
+  console.log(person);
+}
+
