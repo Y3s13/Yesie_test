@@ -19,3 +19,4 @@ function printToConsole(input) {
 function printToConsole(input) {
     window.alert(person.age);
   console.log(person);
+}
