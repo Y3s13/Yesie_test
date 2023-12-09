@@ -13,10 +13,6 @@ function changeText(){
 
 function printToConsole(input) {
     window.alert(person.name);
-  console.log(person);
-}
-
-function printToConsole(input) {
     window.alert(person.age);
   console.log(person);
 }
