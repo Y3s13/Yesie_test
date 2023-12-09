@@ -1,5 +1,4 @@
-window.alert("John doe");
-window.alert("Jane doe");
+window.alert("This page will show you the diffirent type of fabrics");
 
  console.log("would you like to continue?");
 
