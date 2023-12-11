@@ -2,7 +2,7 @@ let nameOfElement;
 nameOfElement = "demo";
 let person = {
   name: "John",
-  age: 8,
+  age: "3 months",
   favoriteColor: "cyan"
 };
 
